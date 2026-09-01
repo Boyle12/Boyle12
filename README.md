@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently building **Realtime Chat Application using MERN STACK.**
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
-
+- 🌐 Building Full-Stack Web Applications with **MERN Stack**
+  
 - 👯 I’m looking to collaborate on **my current project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Boyle12](https://github.com/Boyle12)
