@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Boyle21t&label=Profile%20views&color=0e75b6&style=flat" alt="Boyle21" /> </p>
 
-- 🔭 I’m currently building **Realtime Chat Application using MERN STACK.**
+- 🔭 I’m currently building **Realtime Chat Application using MERN STACK & JAVA FULL STACK.**
 
-- 🌐 Building Full-Stack Web Applications with **MERN Stack**
+- 🌐 Building Full-Stack Web Applications with **MERN Stack & JAVA FULL STACK **
   
 - 👯 I’m looking to collaborate on **my current project.**
 
